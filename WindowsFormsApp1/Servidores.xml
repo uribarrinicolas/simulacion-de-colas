@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<Tabla_servidores>
+  <servidor>
+    <id>Nuevo empleado</id>
+    <tasa_servicio>12</tasa_servicio>
+  </servidor>
+</Tabla_servidores>

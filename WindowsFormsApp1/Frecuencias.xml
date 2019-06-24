@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<Tabla_Frecuencias>
+  <frecuencia>
+    <Tiempo>10</Tiempo>
+    <Probabilidad>0,15</Probabilidad>
+  </frecuencia>
+  <frecuencia>
+    <Tiempo>20</Tiempo>
+    <Probabilidad>0,15</Probabilidad>
+  </frecuencia>
+  <frecuencia>
+    <Tiempo>30</Tiempo>
+    <Probabilidad>0,5</Probabilidad>
+  </frecuencia>
+  <frecuencia>
+    <Tiempo>40</Tiempo>
+    <Probabilidad>0,2</Probabilidad>
+  </frecuencia>
+</Tabla_Frecuencias>

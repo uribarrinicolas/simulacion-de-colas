@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuraciones>
+  <unidad_tiempo>min</unidad_tiempo>
+  <unidad_cliente>cliente</unidad_cliente>
+  <tipo_servicio>Peluquero</tipo_servicio>
+  <tiempo_inicial>0</tiempo_inicial>
+  <tiempo_final>420</tiempo_final>
+  <step>1</step>
+  <velocidad>0,1</velocidad>
+</Configuraciones>
