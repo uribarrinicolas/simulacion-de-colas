@@ -77,10 +77,6 @@ namespace SimulacionesDeCola
         }
         public void Simular(long tiempo)
         {
-
-            // TODO CHECKEAR INTEGRIDAD DATOS
-
-
             for (long i = 0; i < tiempo; i++)
             {
                 Step();

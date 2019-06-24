@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+    
 namespace SimulacionesDeCola
 {
     public partial class FormPrincipal : Form
     {
-        string frecuenciaFilePath = System.AppContext.BaseDirectory + "../../Frecuencias.xml";
-        string configuracionesFilePath = System.AppContext.BaseDirectory + "../../Config.xml";
-        string servidoresFilePath = System.AppContext.BaseDirectory + "../../Servidores.xml";
+        //string frecuenciaFilePath = System.AppContext.BaseDirectory + "../../Frecuencias.xml";
+        //string configuracionesFilePath = System.AppContext.BaseDirectory + "../../Config.xml";
+        //string servidoresFilePath = System.AppContext.BaseDirectory + "../../Servidores.xml";
+        string frecuenciaFilePath = System.AppContext.BaseDirectory + "Frecuencias.xml";
+        string configuracionesFilePath = System.AppContext.BaseDirectory + "Config.xml";
+        string servidoresFilePath = System.AppContext.BaseDirectory + "Servidores.xml";
 
         private int estadoSimulacion = 0; // 0 sin empezar; 1 simulando; 2 pausa; 3 terminado
 
